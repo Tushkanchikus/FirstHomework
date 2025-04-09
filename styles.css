@@ -1,0 +1,42 @@
+body {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+}
+
+header {
+    background-color: #f3a683;
+}
+
+nav {
+    background-color: #f7d794;
+    padding: 10px;
+}
+
+main {
+    background-color: #d1ccc0;
+    font-size: 18px;
+    padding: 20px;
+}
+
+footer {
+    background-color: #778beb;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+
+li {
+    display: inline-block;
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Georgia', serif;
+    color: #574b90;
+}
+
+p {
+    line-height: 1.6;
+}
